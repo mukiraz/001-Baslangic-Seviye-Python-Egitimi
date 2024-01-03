@@ -4,7 +4,7 @@
 
 Bu proje, Python programlama dilini yeni öğrenenler için bir giriş rehberidir. Anaconda Jupyter Notebooks kullanılarak hazırlanmış olan bu proje, Python'ın temellerini ve ileri düzey kavramlarını kapsamaktadır.
 
-**Ders dosyalarının kıllanılması**
+**Ders dosyalarının kullanılması**
 
 Bu dosyalara kendi bilgisayarınızda erişim sağlamak için Anaconda ve Jupyter'i bilgisayarınıza kurmuş olmanız gerekmektrdir.
 
@@ -12,7 +12,7 @@ Anacondayı aşağıdaki adresten indirebilirsiniz.
 
 https://www.anaconda.com/download
 
-Anacondanın kurulumu, bu repository içerisinde 001 Python Genel Kültürü/002 Python Çalışma Ortamı.pdf dosyasında yer almaktadır.
+Anacondanın kurulumu, bu repository içerisinde [001 Python Genel Kültürü/002 Python Çalışma Ortamı.pdf](https://github.com/mukiraz/Python-Entry-Lessons/blob/main/001%20Python%20Genel%20K%C3%BClt%C3%BCr%C3%BC/002%20Python%20%C3%87al%C4%B1%C5%9Fma%20Ortam%C4%B1.pdf) dosyasında yer almaktadır.
 
 Anaconayı kurduktan sonra Jupyter'i çalıştırın.
 
