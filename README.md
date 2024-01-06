@@ -25,33 +25,32 @@ Jupyteri çalıştırın ve dosyalara erişin.
 Ders, aşağıdaki ana dallara ayrılmıştır:
 
 * **Python Genel Kültürü**
-    * Python'a giriş
-    * Python Çalışma Ortamının Kurulması
+    * Eğitime Hazırlık Tanışma Pythona Giriş
+    * Python Geliştirme Ortamının Kurulması
     * Bilgisayar Temelleri 
     * Jupyter Notebook İle Çalışmak
-    * Python'da veri tiplerine genel bir bakış
+    * Python Nasıl Çalışır?
+    * Python Veri Tipleri
     * Pythonda Değişkenler ve Değişken Tanımlama
 * **Python'da Temel Veri Tipleri**
     * Tam Sayılar (Integers)
     * Ondalıklı Sayılar (Floats)
-    * Komplex Sayılar
-    * Karakter Dizileri String İfadeler
+    * Kompleks Sayılar
+    * Karakter Dizileri (String İfadeler)
     * Karakter Dizileri İndis Numarası ve Parçalama
     * String İşlemleri
+    * String Metotları
+    * String Formatlama ve F String
     * Python'da Yorum Satırları
     * Türleri Yönetmek
-    * String Formatlama ve F String
 * **Sık Kullanılan buit-in Fonksiyonlar**
     * Print Fonksiyonu
     * Pythonda Özel Karakterler
     * Input Fonksiyonu
-    * String Metotları
     * Diğer Fonksiyonlar
 * **Operatörler**
     * Matematik Operatörleri
-    * Mantıksal Operatörler
-    * Boolean İfadeleri ve Karşılaştırma Operatörleri
-    * Mantıksal Bağlaçlar
+    * Mantıksal Operatörler ve Karşılaştırma Operatörleri
     * Math Sınıfı ve Matematik Metotları
     * UYGULAMA - Sıcaklık Birimleri Dönüşümleri
     * UYGULAMA - 2_nci Dereceden Verilen Bir Denklemin Koklerini Bulma
@@ -61,6 +60,7 @@ Ders, aşağıdaki ana dallara ayrılmıştır:
     * Listeler
     * Liste Metotları
     * Listeler - Yığın (Stack) ve Sıra (Queue) Kullanımı
+    * Mutable (Değiştirilebilir) ve Immutable (Değiştirilemeyen) Kavramları
     * Demetler (Tuples)
     * Demet Metotları
     * Sözlükler
@@ -76,8 +76,8 @@ Ders, aşağıdaki ana dallara ayrılmıştır:
     * Uygulama- Bir sayının Başka bir Sayıya Tam Bölünüp Bölünmediğini Bulalım
     * Uygulama- TC Kimlik Numarası Doğrulama
 * **Döngüler**
-    * For Döngüsü
     * While Döngüsü
+    * For Döngüsü
     * Break ve Continue İfadeleri
     * İç İçe Döngüler
     * List Comprehension Kullanımı
