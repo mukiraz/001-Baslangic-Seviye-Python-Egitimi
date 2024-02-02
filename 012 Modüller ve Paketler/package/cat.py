@@ -1,0 +1,2 @@
+def meaw():
+    print("Miyav...")
